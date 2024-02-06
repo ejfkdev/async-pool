@@ -1,5 +1,5 @@
 {
-  "name": "async-pool",
+  "name": "@ejfkdevusername/async-pool",
   "version": "1.0.0",
   "description": "JS asynchronous parallel pool",
   "main": "dist/cjs/index.js",

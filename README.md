@@ -27,13 +27,13 @@
 ## Install
 
 ```sh
-pnpm install AsyncPool
+pnpm install @ejfkdev/async-pool
 ```
 
 ## 使用
 
 ```javascript
-import { AsyncPool } from 'AsyncPool'
+import { AsyncPool } from '@ejfkdev/async-pool'
 
 const pool = AsyncPool({
     parallel: 2,
